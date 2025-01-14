@@ -36,18 +36,5 @@ The **CDP Chatbot** is an interactive web application designed to assist users i
 3. **Similarity Computation**: Computes cosine similarity between the query and predefined documentation snippets.
 4. **Result Display**: Shows the top three most relevant results ranked by similarity score.
 
----
 
-## **Setup Instructions**
-
-### **Prerequisites**
-- Python 3.8 or later installed on your machine.
-- Basic familiarity with Python and Streamlit.
-
-### **Installation**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/cdp-chatbot.git
-   cd cdp-chatbot
-   streamlit run app.py
 
